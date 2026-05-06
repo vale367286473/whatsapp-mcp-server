@@ -1,7 +1,7 @@
 # WhatsApp MCP Server
 
-> **Vuoi installarlo? Condividi il link di questa repo con Claude Code e di':**
-> *"Installa il WhatsApp MCP da [URL repo] e configuralo"*
+> **Vuoi installarlo? Condividi questo link con Claude Code e di':**
+> *"Installa il WhatsApp MCP da https://github.com/vale367286473/whatsapp-mcp-server e configuralo"*
 > Claude leggerà questo README e completerà tutto il setup automaticamente.
 
 Server MCP per controllare WhatsApp Web da Claude Code.
@@ -22,7 +22,7 @@ Basato su [`whatsapp-web.js`](https://github.com/pedroslopez/whatsapp-web.js) �
 ### 1. Clona la repo e installa le dipendenze
 
 ```bash
-git clone <URL-repo>
+git clone https://github.com/vale367286473/whatsapp-mcp-server
 cd whatsapp-mcp-server
 npm install
 ```
